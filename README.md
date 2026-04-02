@@ -61,3 +61,8 @@ Prototype completed and tested successfully.
 - Real-time inventory tracking and stock management
 - Multi-machine support with centralized monitoring
 - User authentication and order history tracking
+
+---
+
+## 🔐 Security Note
+Sensitive credentials such as API keys and database URLs have been removed for security purposes.
